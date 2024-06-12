@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import pandas as pd
 from movie_ratings_hash import HashTable
 
